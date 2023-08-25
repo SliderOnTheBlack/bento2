@@ -11,15 +11,15 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Elias',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
+	greetingMorning: 'Hello There!',
+	greetingAfternoon: 'Hello There,',
+	greetingEvening: 'Hello There,',
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
