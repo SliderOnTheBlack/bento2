@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://open.spotify.com/playlist/56e3J0KNkZzeDz0XTwMmK8?si=6fe7a30622a34bd6',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'TNC',
+					link: 'https://open.spotify.com/show/2O6V2jdQLVtASx9D1xqvB6?si=940752acf6e64dbc',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'TØP',
+					link: 'https://open.spotify.com/playlist/2E6vAIGycJq6Oj8qixDEpa?si=b9c6047ecebe4215',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Foo Fighters',
+					link: 'https://open.spotify.com/playlist/4PxmPj3p5IGX9VcRJBOod5?si=f703d9a603df4e94',
 				},
 			],
 		},
