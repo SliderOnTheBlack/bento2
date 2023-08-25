@@ -157,12 +157,12 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'palette',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Wasteof',
+					link: 'https://beta.wasteof.money/',
 				},
 				{
 					name: 'Dribbble',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://figma.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Behance',
+					link: 'https://www.behance.net/',
 				},
 			],
 		},
