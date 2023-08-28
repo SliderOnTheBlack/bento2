@@ -14,7 +14,7 @@ const CONFIG = {
 	name: 'Elias',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Hello There!',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Seqta',
+			icon: 'graduation-cap',
+			link: 'https://learn.emmauscc.sa.edu.au/#?page=/home',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Resources',
+			icon: 'user',
+			link: 'https://sites.google.com/emmauscc.sa.edu.au/studentspace/home',
 		},
 		{
 			id: '6',
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'palette',
+			icon: 'info',
 			id: '2',
 			links: [
 				{
@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Figma',
-					link: 'https://figma.com/',
+					name: 'Hacker News',
+					link: 'https://news.ycombinator.com/',
 				},
 				{
-					name: 'Behance',
-					link: 'https://www.behance.net/',
+					name: 'Flightradar',
+					link: 'https://www.flightradar24.com/',
 				},
 			],
 		},
